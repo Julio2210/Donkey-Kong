@@ -1,0 +1,9 @@
+﻿  Game.cpp
+  main.cpp
+  Generando código...
+C:\Users\Rosalba\source\repos\Project4\Project4\main.cpp(37,45): warning C4244:  'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Rosalba\source\repos\Project4\Project4\main.cpp(37,45): warning C4244:         with
+C:\Users\Rosalba\source\repos\Project4\Project4\main.cpp(37,45): warning C4244:         [
+C:\Users\Rosalba\source\repos\Project4\Project4\main.cpp(37,45): warning C4244:             T=unsigned int
+C:\Users\Rosalba\source\repos\Project4\Project4\main.cpp(37,45): warning C4244:         ]
+  Project4.vcxproj -> C:\Users\Rosalba\source\repos\Project4\Debug\Project4.exe
